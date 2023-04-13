@@ -1,0 +1,5 @@
+"my first commit"
+C-x C-s
+^C
+C-x C-z
+exit
